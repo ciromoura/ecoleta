@@ -23,9 +23,11 @@ O projeto é dividido em três partes principais: backend, frontend e mobile. Tu
 
 Primeiro execute ```npm install``` nas pastas server (backend), web (frontend) e mobile, para instalar as dependências.
 
-Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
+Acesse a pasta server e execute ```yarn dev``` para lançar o backend da aplicação.
 
-Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão mobile no seu smartphone. Também é possível executar em algum emulador Android/iOS.
+Para utilizar a versão web, acesse a pasta web e execute ```npm start```. Caso a página não abra automáticamente, acesse via **localhost:3000**.
+
+Já para utilizar a versão mobile (aplicativo), acesse a pasta mobile e execute ```npm start```. Como o projeto usa o Expo, uma página deverá ser aberta, mas caso não abra, acesse **localhost:19002**, leia o QR Code disponibilizado na página usando seu celular e utilize o aplicativo Expo para rodar a versão mobile no seu smartphone. Também é possível executar em algum emulador Android/iOS.
 
 Você pode encontrar esse mesmo projeto em outros repositórios, assim fica mais fácil esclarecer eventuais questionamentos. Além disso, outros desenvolvedores incluíram algumas modificações, explore:
 - <a href="https://github.com/christyanbrayan/ecoleta" target="_blank">christyanbrayan</a>;

@@ -22,7 +22,7 @@ class PointsController {
             }
         });
 
-        return response.json(points);
+        return response.json(serializedPoints);
     }
 
     async show(request: Request, response: Response) {

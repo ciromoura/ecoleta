@@ -33,7 +33,7 @@ Você pode encontrar esse mesmo projeto em outros repositórios, assim fica mais
 - <a href="https://github.com/tgmarinho/Ecoleta" target="_blank">tgmarinho</a>;
 
 
-**Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat 🚀 **
+## Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat 🚀 
 
 #### 💻 Telas da versão web
 <img src="telas/tela1.png" alt="ecoleta" height="250"> 

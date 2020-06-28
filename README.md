@@ -1,4 +1,4 @@
-<img alt="" title="" src="web/src/assets/logo.svg">
+<img alt="ecoleta" title="" src="web/src/assets/logo.svg">
 
 Durante a 11ª semana OmniStack da Rocketseat foi desenvolvida a aplicação Be The Hero, que visa ajudar Organizações não Governamentais – ONGs.
 
@@ -6,7 +6,7 @@ Nessa aplicação, uma ONG pode cadastrar um caso: com título, descrição e va
 
 #### Criada com as ferramentas NodeJS, ReactJS e React Native
 
-<img src="web/src/assets/home-background.svg" alt="heroes" height="250"> 
+<img src="web/src/assets/home-background.svg" alt="ecoleta" height="250"> 
 
 
 #### Para executar a aplicação

@@ -1,10 +1,10 @@
 <h1 align="center">
-<img alt="ecoleta" title="" src="web/src/assets/logo.svg">
+<img alt="ecoleta" title="" src="web/src/assets/logo.svg" height="100">
 </h1>
 
 ♻️ Ecoleta é uma aplicação que visa conectar empresas, mercados e entidades de coleta de resíduos orgânicos e inorgânicos a pessoas que desejam fazer um descarte de maneira que não prejudique o ambiente.
 
-<img src="web/src/assets/home-background.svg" alt="ecoleta" height="250"> 
+<img src="web/src/assets/home-background.svg" alt="ecoleta" height="320"> 
 
 Os pontos de coleta podem utilizar a plataforma web para se cadastrar. Ao fazer isso, deve ser enviada uma imagem do ponto de coleta, nome da entidade, e-mail e WhatsApp que serão utilizados para contato, além dos itens que poderão ser coletados no local: lâmpadas, pilhas e baterias, papéis e papelão, resíduos eletrônicos, resíduos orgânicos ou óleo de cozinha.
 
@@ -38,11 +38,13 @@ Você pode encontrar esse mesmo projeto em outros repositórios, assim fica mais
 #### Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat 🚀 
 
 ### 💻 Telas da versão web
-<img src="telas/tela1.png" alt="ecoleta" height="250"> 
-<img src="telas/tela2.png" alt="ecoleta" height="250"> 
-<img src="telas/tela3.png" alt="ecoleta" height="250"> 
+<img src="telas/tela1.png" alt="ecoleta - wtela1"> 
+<img src="telas/tela2.png" alt="ecoleta - wtela2"> 
+<img src="telas/tela3.png" alt="ecoleta - wtela3"> 
 
 ### 📱 Telas da versão mobile
-<img src="telas/tela1m.png" alt="ecoleta" height="250"> 
-<img src="telas/tela2m.png" alt="ecoleta" height="250"> 
-<img src="telas/tela3m.png" alt="ecoleta" height="250"> 
+<div style="display: inline">
+<img src="telas/tela1m.png" alt="ecoleta - mtela1" height="440"> 
+<img src="telas/tela2m.png" alt="ecoleta - mtela2" height="440"> 
+<img src="telas/tela3m.png" alt="ecoleta - mtela3" height="440"> 
+  </div>
